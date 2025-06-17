@@ -47,12 +47,6 @@ A real-time price alert bot that tracks selected financial assets and sends upda
 
 ---
 
-### 🕸 Web Scraping Tool – SmartInterviews Profile Extractor – [Repo](#)  
-A Python-based web scraping tool that extracts detailed profile data from over 17,000 users on the SmartInterviews platform. The tool collects user information for analytical and research purposes.  
-**Technologies Used:** Python, Selenium, BeautifulSoup, Pandas
-
----
-
 ## 📈 Learning Goals
 
 - Develop and deploy scalable, production-grade ML solutions.
