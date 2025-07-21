@@ -1,4 +1,4 @@
-# Bhargav Ram Manukonda – Python & ML Enthusiast
+# Bhargav Ram Manukonda - Python & ML Enthusiast
 
 Welcome! I’m Bhargav Ram, a student deeply passionate about Python programming and Machine Learning. I thrive in fast-paced environments that challenge me to learn quickly and apply my skills to solve real-world business problems.
 
